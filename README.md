@@ -9,7 +9,7 @@ This is a training project used to classify cats from dogs using the famous Dogs
 * [Contact](#contact)
 
 ## General info
-This project can be used by beginners to learn and play around neural networks without the need of setting up in their local system. The motivation for this project is to get a head start in the field of Deep Learning and learn how to build Deep Neural Networks as well as perform transfer learning. 
+This project can be used by beginners to learn and play around neural networks without the need of setting up in their local system. The motivation for this project is to get a head start in the field of Deep Learning and learn how to build Convolutional Neural Networks as well as perform transfer learning. 
 
 ## Technologies
 * Python - version 3.7
